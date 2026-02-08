@@ -1,0 +1,29 @@
+# Environment files
+.env
+
+# Dependencies
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+
+# Build artifacts
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/

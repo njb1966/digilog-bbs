@@ -1,0 +1,13 @@
+{
+  "name": "digilog-door-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebSocket-to-telnet bridge for BBSLink door games",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}

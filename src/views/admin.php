@@ -99,6 +99,7 @@ ob_start();
         <a href="/?page=admin_contacts" class="btn">Manage Contacts</a>
         <a href="/?page=admin_users" class="btn">Manage Users</a>
         <a href="/?page=admin_messages" class="btn">Manage Messages</a>
+        <a href="/?page=admin_subs" class="btn">Manage Subs</a>
         <a href="/?page=dashboard" class="btn">Back to Dashboard</a>
     </div>
 </div>

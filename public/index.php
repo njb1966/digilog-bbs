@@ -116,6 +116,14 @@ switch ($page) {
     case 'admin_messages':
         require __DIR__ . '/../src/views/admin_messages.php';
         break;
+
+    case 'admin_subs':
+        require __DIR__ . '/../src/views/admin_subs.php';
+        break;
+
+    case 'admin_edit_sub':
+        require __DIR__ . '/../src/views/admin_edit_sub.php';
+        break;
         
     case 'mark_read':
         // Quick action to mark sub as read
